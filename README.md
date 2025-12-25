@@ -1,4 +1,15 @@
 # 🚀 Void Walker - 2D Space Shooter Game
+## 📥 Tải về bản chơi ngay (Windows)
+Bạn có thể tải game đã đóng gói sẵn tại đây: **[Tải Void Walker v1.0.0](https://github.com/badactor275/Nhap-mon-nganh/releases/latest)**
+*(Chỉ cần tải về, giải nén và chạy file .exe)*
+## 🎮 Phím điều khiển
+Người chơi 1:
+- **Di chuyển:** Các phím mũi tên (Arrow keys).
+- **Bắn đạn:** Phím `Space` (Phím cách).
+Người chơi 2:
+- **Di chuyển;** Các phím W/A/S/D.
+- **Bắn đạn:** Phím Lshift.
+- **Thoát game:** Nhấn phím `Esc` hoặc dấu `X` trên cửa sổ.
 
 **Void Walker** là một dự án trò chơi điện tử 2D thuộc thể loại bắn tàu vũ trụ (space shooter) được phát triển bằng ngôn ngữ Python và thư viện Pygame. Trong game, bạn sẽ hóa thân thành một phi công đơn độc vượt qua vùng "Hư không" đầy rẫy nguy hiểm.
 
