@@ -9,9 +9,9 @@ Người chơi điều khiển con tàu vũ trụ lách qua một "vùng hư kh�
 
 ## ✨ Tính năng chính
 - **Di chuyển linh hoạt:** Điều khiển tàu tự do 4 hướng (Lên, Xuống, Trái, Phải).
-- **Cơ chế chiến đấu:** Bắn đạn tiêu diệt kẻ thù bằng phím Spacebar.
-- **Hệ thống kẻ thù:** Các sinh vật và hành tinh xuất hiện ngẫu nhiên với quỹ đạo khó lường.
-- **Quản lý trạng thái:** Theo dõi điểm số (Score), mạng sống (Lives) và màn hình Game Over.
+- **Cơ chế chiến đấu:** Người chơi 1 di chuyển bằng các phím mũi tên, bắn đạn bằng phím SPACE/ Người chơi 2 di chuyển bằng W/A/S/D bắn đạn bằng LSHIFT
+- **Cơ chế 2 người chơi :** Cho phép 2 người chơi cùng hợp tác để chiến thắng.
+- **Hệ thống kẻ thù đa dạng :** Nhiều màn chơi với nhiều kẻ thù, boss khác nhau.
 
 ## 🛠 Công nghệ sử dụng
 - **Ngôn ngữ:** Python
@@ -29,4 +29,5 @@ Người chơi điều khiển con tàu vũ trụ lách qua một "vùng hư kh�
 2. Cài đặt thư viện Pygame:
    ```bash
    pip install pygame
+3. Chạy game
 python nmn.py
