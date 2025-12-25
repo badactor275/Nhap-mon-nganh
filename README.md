@@ -1,0 +1,32 @@
+# 🚀 Void Walker - 2D Space Shooter Game
+
+**Void Walker** là một dự án trò chơi điện tử 2D thuộc thể loại bắn tàu vũ trụ (space shooter) được phát triển bằng ngôn ngữ Python và thư viện Pygame. Trong game, bạn sẽ hóa thân thành một phi công đơn độc vượt qua vùng "Hư không" đầy rẫy nguy hiểm.
+
+---
+
+## 🌌 Ý tưởng trò chơi (Concept)
+Người chơi điều khiển con tàu vũ trụ lách qua một "vùng hư không" (Void) đầy rẫy các sinh vật vũ trụ dị dạng và các hành tinh nguy hiểm. Mục tiêu là sống sót lâu nhất có thể và đạt điểm số cao nhất.
+
+## ✨ Tính năng chính
+- **Di chuyển linh hoạt:** Điều khiển tàu tự do 4 hướng (Lên, Xuống, Trái, Phải).
+- **Cơ chế chiến đấu:** Bắn đạn tiêu diệt kẻ thù bằng phím Spacebar.
+- **Hệ thống kẻ thù:** Các sinh vật và hành tinh xuất hiện ngẫu nhiên với quỹ đạo khó lường.
+- **Quản lý trạng thái:** Theo dõi điểm số (Score), mạng sống (Lives) và màn hình Game Over.
+
+## 🛠 Công nghệ sử dụng
+- **Ngôn ngữ:** Python
+- **Thư viện:** Pygame
+- **Kiến thức áp dụng:** Lập trình hướng đối tượng (OOP), Game Loop, Collision Detection, Event Handling.
+
+## 📅 Lộ trình phát triển (Roadmap)
+- [x] **Tuần 1:** Thiết kế nhân vật, di chuyển và bắn đạn cơ bản.
+- [x] **Tuần 2:** Lập trình kẻ thù và xử lý va chạm cơ bản.
+- [ ] **Tuần 3:** Hoàn thiện hệ thống điểm số, mạng sống và màn hình Game Over.
+- [ ] **Tuần 4:** Thêm âm thanh, hiệu ứng cháy nổ và sửa lỗi.
+
+## 🚀 Hướng dẫn cài đặt & Chạy Game
+1. Đảm bảo bạn đã cài đặt Python.
+2. Cài đặt thư viện Pygame:
+   ```bash
+   pip install pygame
+python nmn.py
