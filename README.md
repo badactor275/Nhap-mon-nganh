@@ -21,8 +21,8 @@ Người chơi điều khiển con tàu vũ trụ lách qua một "vùng hư kh�
 ## 📅 Lộ trình phát triển (Roadmap)
 - [x] **Tuần 1:** Thiết kế nhân vật, di chuyển và bắn đạn cơ bản.
 - [x] **Tuần 2:** Lập trình kẻ thù và xử lý va chạm cơ bản.
-- [ ] **Tuần 3:** Hoàn thiện hệ thống điểm số, mạng sống và màn hình Game Over.
-- [ ] **Tuần 4:** Thêm âm thanh, hiệu ứng cháy nổ và sửa lỗi.
+- [x] **Tuần 3:** Hoàn thiện hệ thống điểm số, mạng sống và màn hình Game Over.
+- [x] **Tuần 4:** Thêm âm thanh, hiệu ứng cháy nổ và sửa lỗi.
 
 ## 🚀 Hướng dẫn cài đặt & Chạy Game
 1. Đảm bảo bạn đã cài đặt Python.
